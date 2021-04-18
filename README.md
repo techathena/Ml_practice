@@ -1,2 +1,2 @@
 # Ml_uni
-ML Assignments
+Some assignments to help get started with machine_learning
